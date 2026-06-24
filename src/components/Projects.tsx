@@ -36,6 +36,34 @@ const projects = [
     tech: "HTML, CSS, JavaScript",
     link: "https://designdotin.netlify.app/",
     type: "Startup / Agency"
+  },
+    {
+    title: "Clothing Store",
+    description: "A highly optimized, modern e-commerce interface designed specifically for premium clothing brands.",
+    tech: "HTML, CSS, JavaScript",
+    link: "https://clothing-designdotin.onrender.com",
+    type: "Web Design"
+  },
+  {
+    title: "Food Store",
+    description: "An appetizing and dynamic web interface tailored for modern restaurants and food delivery services.",
+    tech: "HTML, CSS, JavaScript",
+    link: "https://food-designdotin.onrender.com",
+    type: "Web Design"
+  },
+  {
+    title: "Travel Agency",
+    description: "A visually stunning and interactive landing page built for travel agencies and tourism boards.",
+    tech: "HTML, CSS, JavaScript",
+    link: "https://travel-designdotin.onrender.com",
+    type: "Web Design"
+  },
+  {
+    title: "Medical Chamber",
+    description: "A clean, professional, and accessible web interface engineered for medical chambers and healthcare providers.",
+    tech: "HTML, CSS, JavaScript",
+    link: "https://medical-designdotin.onrender.com",
+    type: "Web Design"
   }
 ];
 
