@@ -112,7 +112,7 @@ export default function Contact() {
                 id="name" 
                 required
                 className="w-full bg-white/90 dark:bg-zinc-800 border border-gray-200 dark:border-zinc-700 px-4 py-3 rounded-xl focus:outline-none focus:ring-2 focus:ring-black dark:focus:ring-white transition-all shadow-inner"
-                placeholder="John Doe"
+                placeholder="Priyanshu Saha"
               />
             </div>
             <div>
@@ -123,7 +123,7 @@ export default function Contact() {
                 id="email" 
                 required
                 className="w-full bg-white/90 dark:bg-zinc-800 border border-gray-200 dark:border-zinc-700 px-4 py-3 rounded-xl focus:outline-none focus:ring-2 focus:ring-black dark:focus:ring-white transition-all shadow-inner"
-                placeholder="john@example.com"
+                placeholder="priyanshu@mail.com"
               />
             </div>
             <div>
@@ -134,7 +134,7 @@ export default function Contact() {
                 required
                 rows={4}
                 className="w-full bg-white/90 dark:bg-zinc-800 border border-gray-200 dark:border-zinc-700 px-4 py-3 rounded-xl focus:outline-none focus:ring-2 focus:ring-black dark:focus:ring-white transition-all resize-none shadow-inner"
-                placeholder="Hello..."
+                placeholder="Write your query here."
               />
             </div>
             <button 
